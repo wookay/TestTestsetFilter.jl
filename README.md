@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/wookay/TestTestsetFilter.jl/actions/workflows/actions.yml/badge.svg)](https://github.com/wookay/TestTestsetFilter.jl/actions/workflows/actions.yml)
 
+ * here's for [Jive.jl](https://github.com/wookay/Jive.jl) testset filter example.
 
  - test/Project.toml
 ```toml
